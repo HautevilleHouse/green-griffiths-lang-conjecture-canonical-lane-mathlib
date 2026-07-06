@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "The Green-Griffiths-Lang Conjecture via Hyperbolic-Entire-Curve Persistence Lean 4 Proof Package"
+message: "If you use this Lean proof package, cite this repository and the source Canonical Lane manuscript."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/green-griffiths-lang-conjecture-canonical-lane-lean4"
+url: "https://github.com/HautevilleHouse/green-griffiths-lang-conjecture-canonical-lane-lean4"
+license: None
+keywords:
+  - "lean4"
+  - "formalization"
+  - "mathematical-proof"
+  - "canonical-lane"
+  - "reviewer-bridge"
+  - "complex-geometry"
+  - "entire-curves"
+  - "green-griffiths-lang-conjecture"
+  - "hyperbolicity"
+  - "reproducibility"
+preferred-citation:
+  type: article
+  title: "The Green-Griffiths-Lang Conjecture via Hyperbolic-Entire-Curve Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05
